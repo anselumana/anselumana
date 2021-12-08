@@ -1,5 +1,7 @@
 # Ansel Umana
 
+**Backend software developer**
+
 Hi, I'm Ansel Umana, a 23 years old backend developer deeply focused on blockchain technologies and analysis.
 I have an innate curiosity and strong passion for the entire crypto space, I love experimenting with new technologies and learning new skills.
 I've started my journey in software development 4 years ago as a python self-taught, and today I've matured a solid 3+ years of experience developing backend solutions for large enterprises and startups in the financial and IoT fields.
