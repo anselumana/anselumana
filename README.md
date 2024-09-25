@@ -2,9 +2,9 @@
 
 # Ansel Umana
 
-🪴 Research •
-🧪 Data Science •
-🛠️ Software Development.
+🪴 **Research** •
+🧪 **Data Science** •
+🛠️ **Software Development**
 
 Just exploring around...
 
