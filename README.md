@@ -6,8 +6,6 @@
 🧪 **Data Science** •
 🛠️ **Software Development**
 
-Just exploring around...
-
 [Kaggle][kaggle]
 
 </div>
